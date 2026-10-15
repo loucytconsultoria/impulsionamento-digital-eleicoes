@@ -1,0 +1,5 @@
+﻿variante,teste,estatistica,gl,p_valor
+com_cap,LR (a) vs (b),27.362,1,0.0
+com_cap,LR (a) vs (c),27.48,2,0.0
+sem_cap,LR (a) vs (b),22.594,1,0.0
+sem_cap,LR (a) vs (c),22.608,2,1e-05

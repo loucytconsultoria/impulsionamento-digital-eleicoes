@@ -1,0 +1,7 @@
+﻿modelo,b_g,ic95_inf,ic95_sup,faixa_referencia,dentro_da_faixa
+a_loglinear__com_cap,0.3586,0.3103,0.4068,0.23 a 0.40,True
+b_quadratica__com_cap,0.3993,0.3434,0.4552,0.23 a 0.40,True
+c_spline__com_cap,0.3879,0.3025,0.4734,0.23 a 0.40,True
+a_loglinear__sem_cap,0.3652,0.316,0.4144,0.23 a 0.40,True
+b_quadratica__sem_cap,0.4038,0.3469,0.4607,0.23 a 0.40,False
+c_spline__sem_cap,0.4,0.3139,0.486,0.23 a 0.40,True

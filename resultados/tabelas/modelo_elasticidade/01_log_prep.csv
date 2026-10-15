@@ -1,0 +1,16 @@
+﻿item,valor
+linhas_brutas_2018,450
+linhas_brutas_2022,632
+razao_deflacao_mediana_2018,1.2555
+razao_deflacao_mediana_2022,1.0
+removidos_indeferidos,0
+n_deferidos_total,1082
+n_usuarios_impulsionamento_total,515
+n_usuarios_2018,173
+n_usuarios_2022,342
+usuarios_com_zero_votos,7
+colunas_capital_politico,l_votos_mesmo_cargo_ultima; l_votos_dep_estadual_ultima; l_votos_prefeito_ultima; l_votos_prefeito_penultima; l_votos_vereador_ultima
+tradicional_mediana_usuarios,29857.0
+operacional_mediana_usuarios,28145.0
+imp_mediana_usuarios_pool,6780.0
+imp_mediana_usuarios_2022,9000.0

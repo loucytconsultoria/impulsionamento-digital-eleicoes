@@ -1,0 +1,94 @@
+﻿modelo,parametro,coef,ep,p_valor
+a_loglinear__com_cap,Intercept,-1.160003,0.367572,0.0016
+a_loglinear__com_cap,C(ano)[T.2022],-1.300082,0.112892,0.0
+a_loglinear__com_cap,l_imp,0.531331,0.032687,0.0
+a_loglinear__com_cap,l_trad,0.140579,0.013012,0.0
+a_loglinear__com_cap,l_oper,0.162544,0.013464,0.0
+a_loglinear__com_cap,reeleicao,0.588954,0.41009,0.15096
+a_loglinear__com_cap,masculino,0.764486,0.107615,0.0
+a_loglinear__com_cap,superior_completo,0.404896,0.106909,0.00015
+a_loglinear__com_cap,corbranca,0.277395,0.12803,0.03026
+a_loglinear__com_cap,esquerda,-0.051967,0.141919,0.71424
+a_loglinear__com_cap,direita,0.427075,0.12685,0.00076
+a_loglinear__com_cap,l_votos_mesmo_cargo_ultima,0.082603,0.023662,0.00048
+a_loglinear__com_cap,l_votos_dep_estadual_ultima,0.058685,0.020116,0.00353
+a_loglinear__com_cap,l_votos_prefeito_ultima,-0.047853,0.031676,0.13087
+a_loglinear__com_cap,l_votos_prefeito_penultima,-0.005584,0.032936,0.86537
+a_loglinear__com_cap,l_votos_vereador_ultima,-0.009431,0.024891,0.70478
+a_loglinear__com_cap,alpha,1.417532,0.074925,0.0
+b_quadratica__com_cap,Intercept,0.914882,1.284608,0.47635
+b_quadratica__com_cap,C(ano)[T.2022],-1.298419,0.112385,0.0
+b_quadratica__com_cap,l_imp,0.051333,0.286353,0.85773
+b_quadratica__com_cap,I(l_imp ** 2),0.027378,0.0162,0.09103
+b_quadratica__com_cap,l_trad,0.138508,0.013058,0.0
+b_quadratica__com_cap,l_oper,0.160193,0.013627,0.0
+b_quadratica__com_cap,reeleicao,0.566882,0.409528,0.16629
+b_quadratica__com_cap,masculino,0.753892,0.107427,0.0
+b_quadratica__com_cap,superior_completo,0.404153,0.106541,0.00015
+b_quadratica__com_cap,corbranca,0.273691,0.127557,0.0319
+b_quadratica__com_cap,esquerda,-0.046082,0.141771,0.74515
+b_quadratica__com_cap,direita,0.420445,0.12649,0.00089
+b_quadratica__com_cap,l_votos_mesmo_cargo_ultima,0.08762,0.023784,0.00023
+b_quadratica__com_cap,l_votos_dep_estadual_ultima,0.059418,0.020156,0.0032
+b_quadratica__com_cap,l_votos_prefeito_ultima,-0.04655,0.031608,0.14083
+b_quadratica__com_cap,l_votos_prefeito_penultima,-0.007901,0.032835,0.80984
+b_quadratica__com_cap,l_votos_vereador_ultima,-0.007974,0.024891,0.74871
+b_quadratica__com_cap,alpha,1.411513,0.074645,0.0
+c_spline__com_cap,Intercept,2.643753,0.518208,0.0
+c_spline__com_cap,C(ano)[T.2022],-1.30925,0.111797,0.0
+c_spline__com_cap,"bs(l_imp, df=3)[0]",-1.364844,1.01975,0.18076
+c_spline__com_cap,"bs(l_imp, df=3)[1]",3.50773,0.537903,0.0
+c_spline__com_cap,"bs(l_imp, df=3)[2]",2.896261,0.777155,0.00019
+c_spline__com_cap,l_trad,0.135596,0.01308,0.0
+c_spline__com_cap,l_oper,0.155786,0.013832,0.0
+c_spline__com_cap,reeleicao,0.480617,0.409326,0.24033
+c_spline__com_cap,masculino,0.731114,0.107117,0.0
+c_spline__com_cap,superior_completo,0.366539,0.106927,0.00061
+c_spline__com_cap,corbranca,0.268327,0.127165,0.03485
+c_spline__com_cap,esquerda,-0.102231,0.142556,0.47329
+c_spline__com_cap,direita,0.378917,0.1268,0.00281
+c_spline__com_cap,l_votos_mesmo_cargo_ultima,0.09278,0.023664,9e-05
+c_spline__com_cap,l_votos_dep_estadual_ultima,0.05883,0.019963,0.00321
+c_spline__com_cap,l_votos_prefeito_ultima,-0.04803,0.031526,0.12763
+c_spline__com_cap,l_votos_prefeito_penultima,-0.006716,0.032613,0.83684
+c_spline__com_cap,l_votos_vereador_ultima,-0.005961,0.024856,0.81048
+c_spline__com_cap,alpha,1.398438,0.074033,0.0
+a_loglinear__sem_cap,Intercept,-0.933073,0.380475,0.01419
+a_loglinear__sem_cap,C(ano)[T.2022],-1.323076,0.113134,0.0
+a_loglinear__sem_cap,l_imp,0.514213,0.034151,0.0
+a_loglinear__sem_cap,l_trad,0.150529,0.013056,0.0
+a_loglinear__sem_cap,l_oper,0.151492,0.013614,0.0
+a_loglinear__sem_cap,reeleicao,1.414739,0.311951,1e-05
+a_loglinear__sem_cap,masculino,0.811836,0.109554,0.0
+a_loglinear__sem_cap,superior_completo,0.457176,0.109097,3e-05
+a_loglinear__sem_cap,corbranca,0.289877,0.129876,0.02562
+a_loglinear__sem_cap,esquerda,-0.045794,0.145295,0.75263
+a_loglinear__sem_cap,direita,0.458089,0.128962,0.00038
+a_loglinear__sem_cap,alpha,1.48801,0.078218,0.0
+b_quadratica__sem_cap,Intercept,0.200214,1.277365,0.87545
+b_quadratica__sem_cap,C(ano)[T.2022],-1.326114,0.113,0.0
+b_quadratica__sem_cap,l_imp,0.254203,0.28168,0.36682
+b_quadratica__sem_cap,I(l_imp ** 2),0.014759,0.015857,0.35198
+b_quadratica__sem_cap,l_trad,0.149774,0.013066,0.0
+b_quadratica__sem_cap,l_oper,0.149929,0.013766,0.0
+b_quadratica__sem_cap,reeleicao,1.436125,0.31253,0.0
+b_quadratica__sem_cap,masculino,0.807076,0.109527,0.0
+b_quadratica__sem_cap,superior_completo,0.460333,0.108976,2e-05
+b_quadratica__sem_cap,corbranca,0.285103,0.129751,0.028
+b_quadratica__sem_cap,esquerda,-0.043571,0.145297,0.76427
+b_quadratica__sem_cap,direita,0.458344,0.128755,0.00037
+b_quadratica__sem_cap,alpha,1.486155,0.078133,0.0
+c_spline__sem_cap,Intercept,2.396589,0.511947,0.0
+c_spline__sem_cap,C(ano)[T.2022],-1.345239,0.112953,0.0
+c_spline__sem_cap,"bs(l_imp, df=3)[0]",-0.5681,0.98518,0.56418
+c_spline__sem_cap,"bs(l_imp, df=3)[1]",3.430984,0.542776,0.0
+c_spline__sem_cap,"bs(l_imp, df=3)[2]",3.173235,0.746638,2e-05
+c_spline__sem_cap,l_trad,0.147909,0.01311,0.0
+c_spline__sem_cap,l_oper,0.146226,0.013986,0.0
+c_spline__sem_cap,reeleicao,1.415215,0.312078,1e-05
+c_spline__sem_cap,masculino,0.792714,0.10917,0.0
+c_spline__sem_cap,superior_completo,0.432093,0.109667,8e-05
+c_spline__sem_cap,corbranca,0.277441,0.129549,0.03223
+c_spline__sem_cap,esquerda,-0.087533,0.146193,0.54934
+c_spline__sem_cap,direita,0.432411,0.128903,0.00079
+c_spline__sem_cap,alpha,1.478131,0.077758,0.0

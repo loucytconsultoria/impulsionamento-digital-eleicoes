@@ -1,0 +1,5 @@
+periodo,ano,mes,indice,fonte_tabela,fonte_variavel,base_indice,pacote,data_acesso
+201810,2018,10,5103.69,SIDRA-1737,2266,dez/1993=100,sidrar 0.2.9,2026-06-28
+202010,2020,10,5438.12,SIDRA-1737,2266,dez/1993=100,sidrar 0.2.9,2026-06-28
+202210,2022,10,6407.93,SIDRA-1737,2266,dez/1993=100,sidrar 0.2.9,2026-06-28
+202410,2024,10,7036.33,SIDRA-1737,2266,dez/1993=100,sidrar 0.2.9,2026-06-28

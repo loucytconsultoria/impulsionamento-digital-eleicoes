@@ -1,0 +1,11 @@
+﻿modelo,envelope_R$2022,votos_ponto,votos_media_P10,votos_media_P50,votos_media_P90,votos_pred_P10,votos_pred_P50,votos_pred_P90,b_g_topo,custo_medio_R$/voto_P50,custo_marginal_topo_R$/voto,n_usuarios_gasto>=E,sanidade_vs_eleito_tipico
+b_quadratica__com_cap,50000,1470.0,1181.0,1475.0,1821.0,68.0,858.0,3530.0,0.6438,33.89,52.64,71,OTIMISTA DEMAIS (abaixo do eleito tipico)
+b_quadratica__com_cap,100000,2327.0,1814.0,2326.0,2962.0,114.0,1324.0,5995.0,0.6817,42.99,63.05,30,OTIMISTA DEMAIS (abaixo do eleito tipico)
+b_quadratica__com_cap,150000,3082.0,2328.0,3077.0,4057.0,142.0,1812.0,8157.0,0.7039,48.75,69.26,14,OTIMISTA DEMAIS (abaixo do eleito tipico)
+b_quadratica__com_cap,200000,3782.0,2777.0,3766.0,5119.0,210.0,2184.0,9795.0,0.7197,53.1,73.78,10,OTIMISTA DEMAIS (abaixo do eleito tipico)
+b_quadratica__com_cap,250000,4447.0,3184.0,4437.0,6169.0,205.0,2546.0,11797.0,0.7319,56.34,76.98,5,OTIMISTA DEMAIS (abaixo do eleito tipico)
+b_quadratica__sem_cap,50000,1612.0,1292.0,1616.0,1989.0,68.0,886.0,4092.0,0.5736,30.94,53.93,71,OTIMISTA DEMAIS (abaixo do eleito tipico)
+b_quadratica__sem_cap,100000,2416.0,1887.0,2423.0,3077.0,99.0,1307.0,6197.0,0.594,41.27,69.47,30,OTIMISTA DEMAIS (abaixo do eleito tipico)
+b_quadratica__sem_cap,150000,3082.0,2341.0,3084.0,4046.0,139.0,1787.0,8011.0,0.606,48.64,80.27,14,OTIMISTA DEMAIS (abaixo do eleito tipico)
+b_quadratica__sem_cap,200000,3674.0,2735.0,3686.0,4953.0,138.0,2078.0,9753.0,0.6145,54.26,88.29,10,OTIMISTA DEMAIS (abaixo do eleito tipico)
+b_quadratica__sem_cap,250000,4217.0,3058.0,4239.0,5818.0,168.0,2450.0,11380.0,0.6211,58.97,94.95,5,ok (acima/igual ao eleito tipico)

@@ -1,0 +1,5 @@
+porte,limite_inferior,limite_superior
+PEQUENO,0,15000
+MEDIO,15000,75000
+GRANDE,75000,750000
+METROPOLE,750000,Inf

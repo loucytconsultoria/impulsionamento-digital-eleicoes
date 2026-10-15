@@ -1,0 +1,39 @@
+DS_ORIGEM_DESPESA,CATEGORIA
+Publicidade por materiais impressos,PUBLICIDADE_TRADICIONAL
+Atividades de militância e mobilização de rua,PUBLICIDADE_TRADICIONAL
+Despesas com pessoal,OPERACIONAL
+Publicidade por adesivos,PUBLICIDADE_TRADICIONAL
+Combustíveis e lubrificantes,OPERACIONAL
+#NULO,OPERACIONAL
+Despesa com Impulsionamento de Conteúdos,IMPULSIONAMENTO
+Serviços contábeis,OPERACIONAL
+Serviços prestados por terceiros,OPERACIONAL
+"Encargos financeiros, taxas bancárias e/ou op. cartão de crédito",OPERACIONAL
+Serviços advocatícios,OPERACIONAL
+Diversas a especificar,OPERACIONAL
+"Produção de programas de rádio, television ou vídeo",PUBLICIDADE_TRADICIONAL
+Alimentação,OPERACIONAL
+Doações financeiras a outros candidatos/partidos,OPERACIONAL
+"Produção de jingles, vinhetas e slogans",OPERACIONAL
+Materiais de expediente,OPERACIONAL
+Cessão ou locação de veículos,OPERACIONAL
+Publicidade por jornais e revistas,PUBLICIDADE_TRADICIONAL
+Locação/cessão de bens imóveis,OPERACIONAL
+Criação e inclusão de páginas na internet,OPERACIONAL
+Serviços próprios prestados por terceiros,OPERACIONAL
+Eventos de promoção da candidatura,PUBLICIDADE_TRADICIONAL
+Publicidade por carros de som,PUBLICIDADE_TRADICIONAL
+Locação/cessão de bens móveis (exceto veículos),OPERACIONAL
+Despesas com transporte ou deslocamento,OPERACIONAL
+Correspondências e despesas postais,PUBLICIDADE_TRADICIONAL
+Taxa de Administração de Financiamento Coletivo,OPERACIONAL
+Água,OPERACIONAL
+Comícios,PUBLICIDADE_TRADICIONAL
+Pré-instalação física de comitê de campanha,OPERACIONAL
+Pesquisas ou testes eleitorais,OPERACIONAL
+Energia elétrica,OPERACIONAL
+"Impostos, contribuições e taxas",OPERACIONAL
+Telefone,OPERACIONAL
+Despesas com Hospedagem,OPERACIONAL
+Aquisição/Doação de bens móveis ou imóveis,OPERACIONAL
+Multas eleitorais,OPERACIONAL

@@ -1,0 +1,43 @@
+DS_ORIGEM_DESPESA,CATEGORIA
+Despesas com pessoal,OPERACIONAL
+Atividades de militância e mobilização de rua,PUBLICIDADE_TRADICIONAL
+Publicidade por materiais impressos,PUBLICIDADE_TRADICIONAL
+"Encargos financeiros, taxas bancárias e/ou op. cartão de crédito",OPERACIONAL
+Combustíveis e lubrificantes,OPERACIONAL
+Alimentação,OPERACIONAL
+Publicidade por adesivos,PUBLICIDADE_TRADICIONAL
+Despesa com Impulsionamento de Conteúdos,IMPULSIONAMENTO
+Serviços prestados por terceiros,OPERACIONAL
+Diversas a especificar,OPERACIONAL
+Materiais de expediente,OPERACIONAL
+Cessão ou locação de veículos,OPERACIONAL
+Correspondências e despesas postais,PUBLICIDADE_TRADICIONAL
+Publicidade por jornais e revistas,PUBLICIDADE_TRADICIONAL
+Despesas com transporte ou deslocamento,OPERACIONAL
+"Produção de programas de rádio, televisão ou vídeo",PUBLICIDADE_TRADICIONAL
+Locação/cessão de bens imóveis,OPERACIONAL
+Serviços advocatícios,OPERACIONAL
+Serviços contábeis,OPERACIONAL
+"Produção de jingles, vinhetas e slogans",OPERACIONAL
+Criação e inclusão de páginas na internet,OPERACIONAL
+Despesas com Hospedagem,OPERACIONAL
+Locação/cessão de bens móveis (exceto veículos),OPERACIONAL
+Doações financeiras a outros candidatos/partidos,OPERACIONAL
+Taxa de Administração de Financiamento Coletivo,OPERACIONAL
+Eventos de promoção da candidatura,PUBLICIDADE_TRADICIONAL
+Serviços próprios prestados por terceiros,OPERACIONAL
+Água,OPERACIONAL
+#NULO#,OPERACIONAL
+"Impostos, contribuições e taxas",OPERACIONAL
+Publicidade por carros de som,PUBLICIDADE_TRADICIONAL
+Pré-instalação física de comitê de campanha,OPERACIONAL
+Pesquisas ou testes eleitorais,OPERACIONAL
+Comícios,PUBLICIDADE_TRADICIONAL
+Telefone,OPERACIONAL
+Reembolsos de gastos realizados por eleitores,OPERACIONAL
+Energia elétrica,OPERACIONAL
+Aquisição/Doação de bens móveis ou imóveis,OPERACIONAL
+Passagem Aérea,OPERACIONAL
+Despesa com geradores de energia,OPERACIONAL
+Encargos sociais,OPERACIONAL
+Multas eleitorais,OPERACIONAL

@@ -1,0 +1,38 @@
+# --- dados brutos do TSE e caches (reproduzíveis por download) ---
+dados/
+*.rds
+*.zip
+
+# --- saídas geradas pelos pipelines ---
+execucao/
+saidas_elasticidade/
+transcricao/
+*.Rout
+Rplots.pdf
+
+# --- segredos e ambiente local ---
+.env
+
+# --- R ---
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+*.Rproj
+R/renv/library/
+R/renv/local/
+R/renv/cellar/
+R/renv/staging/
+R/renv/python/
+R/renv/sandbox/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- temporários ---
+*.tmp
+*.log
+*.bak*

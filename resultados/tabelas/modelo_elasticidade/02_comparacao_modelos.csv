@@ -1,0 +1,7 @@
+﻿modelo,n,k_params,llf,aic,bic,alpha,convergiu,aviso
+a_loglinear__com_cap,515,17,-5035.809,10105.62,10177.77,1.0673,True,mle_polido_newton
+b_quadratica__com_cap,515,18,-5022.128,10080.26,10156.65,1.0231,True,mle_polido_newton
+c_spline__com_cap,515,19,-5022.069,10082.14,10162.78,1.0229,True,mle_polido_newton
+a_loglinear__sem_cap,515,12,-5051.535,10127.07,10178.0,1.12,True,mle_polido_newton
+b_quadratica__sem_cap,515,13,-5040.238,10106.48,10161.65,1.082,True,mle_polido_newton
+c_spline__sem_cap,515,14,-5040.231,10108.46,10167.88,1.0819,True,mle_polido_newton
